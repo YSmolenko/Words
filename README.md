@@ -3,6 +3,7 @@ Words \
 MVP \
 Describe 5 words in 1 min \
 \
+Java, Spring Boot, Spring WebSockets, stopm, js, sockjs, jquery, bootstrap3
 Possivle improvements
 * Add teams
 * Add scoreboard
